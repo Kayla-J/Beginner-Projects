@@ -1,6 +1,7 @@
 # Loca cinema invoice
-![Screenshot (31)](https://user-images.githubusercontent.com/68082619/169051191-12f3bbbd-9421-439e-a2bd-765198dfdffa.png)
 
+
+![Screenshot (31)](https://user-images.githubusercontent.com/68082619/169051191-12f3bbbd-9421-439e-a2bd-765198dfdffa.png)
 
 
 
@@ -15,6 +16,7 @@ The program will compute the gross box office revenue, the distributor amount, a
 It will then echo back the movie name along with the three computed values. It should display the 
 amounts  using  a  dollar  sign  and  two  decimal  places  (use  setprecision()  ).  Use  setw()  to  get  the 
 decimal places to align
+
 
 
 
