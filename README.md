@@ -1,4 +1,4 @@
-# Loca cinema invoice
+# Local Cinema Invoice
 
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/68082619/169051191-12f3bbbd-9421-439e-a2bd-765198dfdffa.png)
