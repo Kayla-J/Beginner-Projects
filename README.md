@@ -5,7 +5,6 @@
 
 
 
-##Task 
 The  local  cinema  must  send  80%  of  its  ticket  receipts  to  the  movie  distributor.  The  manager  has 
 asked you to write a small program that will print an invoice for weekly ticket income and profits 
 for a given movie.
